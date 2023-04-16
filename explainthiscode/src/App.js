@@ -15,7 +15,7 @@ function App() {
   const [response, setResponse] = useState("")
   
 const configuration = new Configuration({
-  apiKey:"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",
+  apiKey:"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",
 });
 
 const openai = new OpenAIApi(configuration);
